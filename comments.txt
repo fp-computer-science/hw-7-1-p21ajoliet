@@ -1,0 +1,9 @@
+Question 2 should only have returned the "o"
+
+Question 4 should have used the in operator.
+
+Question 5 should have had "Peach" and "pear" reversed. The question was not copied correctly.
+
+Question 7 You did not need to declare the number as an int. It would be cast as an int by default.
+
+Question 8 should have used the not in operator.
